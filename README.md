@@ -1,0 +1,1 @@
+This is Pinky's first git project!
